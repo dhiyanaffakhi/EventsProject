@@ -1,4 +1,4 @@
-package tn.esprit.eventsproject.services;
+package tn.esprit;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
